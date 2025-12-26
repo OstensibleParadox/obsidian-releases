@@ -2917,3 +2917,11 @@
     "modes": ["dark", "light"]
   }
 ]
+{
+  "name": "Envying Baby",
+  "author": "OstensibleParadox",
+  "repo": "OstensibleParadox/obsidian-envyingbaby-theme",
+  "screenshot": "screenshot.png",
+  "modes": ["light", "dark"],
+  "branch": "main"
+}
